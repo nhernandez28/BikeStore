@@ -1,0 +1,5 @@
+City Bike, C123, blue, 2
+Mountain Bike, 472d, green, 1
+Mountain Bike, 472d, red, 2
+Mountain Bike, 3c07, blue, 5
+Road Bike, 452X, grey, 3
